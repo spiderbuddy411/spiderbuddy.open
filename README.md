@@ -1,1 +1,1 @@
-# spiderbuddy
+# SpiderBuddy
