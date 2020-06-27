@@ -1,3 +1,0 @@
-C:\Users\Administrator\.jenkins\jobs\EloBuddy.Networking\workspace\bin\Release\EloBuddy.Networking.dll
-C:\Users\Administrator\.jenkins\jobs\EloBuddy.Networking\workspace\obj\x86\Release\EloBuddy.Networking.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\.jenkins\jobs\EloBuddy.Networking\workspace\obj\x86\Release\EloBuddy.Networking.dll

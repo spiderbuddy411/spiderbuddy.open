@@ -1,6 +1,0 @@
-<?php
-
-define( 'VERSION', 1000 );
- 
-echo "SUCCESS\n";
-echo VERSION;

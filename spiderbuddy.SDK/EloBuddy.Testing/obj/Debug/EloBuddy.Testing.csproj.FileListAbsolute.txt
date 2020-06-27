@@ -1,3 +1,0 @@
-C:\Users\Administrator\.jenkins\jobs\EloBuddy.SDK\workspace\EloBuddy.Testing\obj\Debug\EloBuddy.Testing.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\.jenkins\jobs\EloBuddy.SDK\workspace\EloBuddy.Testing\obj\Debug\EloBuddy.Testing.Properties.Resources.resources
-C:\Users\Administrator\.jenkins\jobs\EloBuddy.SDK\workspace\EloBuddy.Testing\obj\Debug\EloBuddy.Testing.csproj.GenerateResource.Cache
