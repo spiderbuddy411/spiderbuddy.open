@@ -5,6 +5,6 @@
     'time'              => date('Y-m-d H:i:s'),
     'game_id'           => 1338,
     'custom_game'       => true,
-    'game_version'      => '6.14',
+    'game_version'      => '10.13',
     'game_region'       => 'EUW'
 ]);
