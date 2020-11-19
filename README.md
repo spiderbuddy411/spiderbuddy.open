@@ -1,44 +1,32 @@
-# LoL-Hacking
-
-I am publishing my entire EloBuddy project here for the purpose of learning. EloBuddy was the leading League of Legends hack for
-the past two years. I have been ordered to cease my operations by Riot Games, and this is my legacy.
-
-This repository covers everything required to start a SUCCESSFUL League of Legends hack. 
-
 # EloBuddy.Core
 
-The Core is the brain of this project. It interacts with League of Legends and provides a .NET API for plugin developers. 
-The "Teemo Client" keeps you safe from Riot Games rootkit. 
+O Core é o cérebro deste projeto. Ele interage com League of Legends e fornece uma API .NET para desenvolvedores de plug-ins.
+O "Teemo Client" mantém você protegido do rootkit da Riot Games.
 
 # EloBuddy.Website
 
-Full ready to go IPB forum, just requires a fresh database.
+Completo fórum IPB pronto para ir, requer apenas um novo banco de dados.
 
 # EloBuddy.Loader
 
-The Loader is used to compile and inject plugins. It supports local plugins and Github repositories.
+O Loader é usado para compilar e injetar plug-ins. Ele suporta plug-ins locais e repositórios Github.
 
 # EloBuddy.Sandbox
 
-Will keep you safe from unwilling file changes from untrusted plugins.
+Irá mantê-lo protegido contra alterações indesejadas de arquivos de plug-ins não confiáveis.
 
 # EloBuddy.Auth
 
-Auth server to prevent free users and crackers.
+Servidor de autenticação para prevenir usuários gratuitos e crackers.
 
 # EloBuddy.API
 
-Some backend API.
+Alguma API de back-end.
 
 # EloBuddy.AddonDatabase
 
-Fancy database for plugins.
+Banco de dados sofisticado para plug-ins.
 
 # EloBuddy.Networking
 
-More auth.
-
-# Support
-
-If you want EloBuddy to stay up and fight against American nazi companies, you can support me with a donation under: paypal@epicdevs.com 
-
+Mais autenticação
